@@ -81,4 +81,17 @@ const toggleLoadingSpinner = (isLoading) => {
     }
 }
 
+
+
+// show all code: watch video number : 34-6
+
+// const handleShowAll = () => {
+    
+// }
+
+
+
+
+
+
 // loadPhone(); // initial call 
